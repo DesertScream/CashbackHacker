@@ -31,7 +31,7 @@ public class CashbackHackServiceTest {
     }
 
     @Test
-    public void calculateServiceInTheBoundaryGradle () {
+    public void calculateServiceInTheGradle () {
         CashbackHackService service = new CashbackHackService();
 
         int amount = 1000;
